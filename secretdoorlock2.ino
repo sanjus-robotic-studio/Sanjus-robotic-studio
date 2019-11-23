@@ -3,13 +3,9 @@
 /* Detects patterns of knocks and triggers a motor to unlock
    it if the pattern is correct.
    
-   By Steve Hoefer http://grathio.com
-   Version 0.1.10.20.10
-   Licensed under Creative Commons Attribution-Noncommercial-Share Alike 3.0
-   http://creativecommons.org/licenses/by-nc-sa/3.0/us/
-   (In short: Do what you want, just be sure to include this line and the four above it, and don't sell it or use it in anything you sell without contacting me.)
+  
    
-   Analog Pin 0: Piezo speaker (connected to ground with 1M pulldown resistor)
+   Analog Pin 3: Piezo speaker (connected to ground with 1M pulldown resistor)
    Digital Pin 2: Switch to enter a new code.  Short this to enter programming mode.
    Digital Pin 3: DC gear reduction motor attached to the lock. (Or a motor controller or a solenoid or other unlocking mechanisim.)
    Digital Pin 4: Red LED. 
@@ -23,7 +19,7 @@
 #define openGate 90
 #define closeGate 180 
 // Pin definitions
-const int knockSensor = 0;         // Piezo sensor on pin 0.
+const int knockSensor = 3;         // Piezo sensor on pin 0.
 const int programSwitch = 2;       // If this is high we program a new code.
 const int lockMotor = 3;           // Gear motor used to turn the lock.
 const int redLED = 4;              // Status LED
