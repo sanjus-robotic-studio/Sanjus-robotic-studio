@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to work on [Fiverr for freelancing](https://www.fiverr.com/sanjiv_anand)
 
-- 👨‍💻 All of my projects are available at [http://sanjusroboticsstudio.xyz](http://sanjusroboticsstudio.xyz)
+- 👨‍💻 All of my projects are available at [http://sanjus-robotic-studio.github.io](http://sanjus-robotic-studio.github.io)
 
 - 💬 Ask me about **Robotics**
 
 - 📫 How to reach me **sanjusroboticsstudio@gmail.com**
 
-- 📄 Know about my experiences [http://sanjusroboticsstudio.xyz](http://sanjusroboticsstudio.xyz)
+- 📄 Know about my experiences [http://sanjus-robotic-studio.github.io](http://sanjus-robotic-studio.github.io)
 
 - ⚡ Fun fact **I am a high school student 👨🏼‍🎓**
 
